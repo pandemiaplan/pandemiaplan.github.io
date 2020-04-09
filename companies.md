@@ -1,4 +1,4 @@
-#Companies manufacturing breahting aids machines
+# Companies manufacturing breahting aids machines
 
-##Spain
+## Spain
 - https://www.hersill.com/respiradores-pulmonares-para-emergencias-y-transporte/vitae-40/
